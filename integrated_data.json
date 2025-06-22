@@ -1,0 +1,884 @@
+[
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1101",
+    "city_name": "KABUPATEN SIMEULUE",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1102",
+    "city_name": "KABUPATEN ACEH SINGKIL",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1103",
+    "city_name": "KABUPATEN ACEH SELATAN",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1104",
+    "city_name": "KABUPATEN ACEH TENGGARA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1105",
+    "city_name": "KABUPATEN ACEH TIMUR",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1106",
+    "city_name": "KABUPATEN ACEH TENGAH",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1107",
+    "city_name": "KABUPATEN ACEH BARAT",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1108",
+    "city_name": "KABUPATEN ACEH BESAR",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1109",
+    "city_name": "KABUPATEN PIDIE",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1110",
+    "city_name": "KABUPATEN BIREUEN",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1111",
+    "city_name": "KABUPATEN ACEH UTARA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1112",
+    "city_name": "KABUPATEN ACEH BARAT DAYA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1113",
+    "city_name": "KABUPATEN GAYO LUES",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1114",
+    "city_name": "KABUPATEN ACEH TAMIANG",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1115",
+    "city_name": "KABUPATEN NAGAN RAYA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1116",
+    "city_name": "KABUPATEN ACEH JAYA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1117",
+    "city_name": "KABUPATEN BENER MERIAH",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1118",
+    "city_name": "KABUPATEN PIDIE JAYA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1171",
+    "city_name": "KOTA BANDA ACEH",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1172",
+    "city_name": "KOTA SABANG",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1173",
+    "city_name": "KOTA LANGSA",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1174",
+    "city_name": "KOTA LHOKSEUMAWE",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "11",
+    "province_name": "ACEH",
+    "city_id": "1175",
+    "city_name": "KOTA SUBULUSSALAM",
+    "GDP": 102.5,
+    "inflation": 3.1,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1201",
+    "city_name": "KABUPATEN NIAS",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1202",
+    "city_name": "KABUPATEN MANDAILING NATAL",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1203",
+    "city_name": "KABUPATEN TAPANULI SELATAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1204",
+    "city_name": "KABUPATEN TAPANULI TENGAH",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1205",
+    "city_name": "KABUPATEN TAPANULI UTARA",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1206",
+    "city_name": "KABUPATEN TOBA SAMOSIR",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1207",
+    "city_name": "KABUPATEN LABUHAN BATU",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1208",
+    "city_name": "KABUPATEN ASAHAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1209",
+    "city_name": "KABUPATEN SIMALUNGUN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1210",
+    "city_name": "KABUPATEN DAIRI",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1211",
+    "city_name": "KABUPATEN KARO",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1212",
+    "city_name": "KABUPATEN DELI SERDANG",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1213",
+    "city_name": "KABUPATEN LANGKAT",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1214",
+    "city_name": "KABUPATEN NIAS SELATAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1215",
+    "city_name": "KABUPATEN HUMBANG HASUNDUTAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1216",
+    "city_name": "KABUPATEN PAKPAK BHARAT",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1217",
+    "city_name": "KABUPATEN SAMOSIR",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1218",
+    "city_name": "KABUPATEN SERDANG BEDAGAI",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1219",
+    "city_name": "KABUPATEN BATU BARA",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1220",
+    "city_name": "KABUPATEN PADANG LAWAS UTARA",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1221",
+    "city_name": "KABUPATEN PADANG LAWAS",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1222",
+    "city_name": "KABUPATEN LABUHAN BATU SELATAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1223",
+    "city_name": "KABUPATEN LABUHAN BATU UTARA",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1224",
+    "city_name": "KABUPATEN NIAS UTARA",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1225",
+    "city_name": "KABUPATEN NIAS BARAT",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1271",
+    "city_name": "KOTA SIBOLGA",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1272",
+    "city_name": "KOTA TANJUNG BALAI",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1273",
+    "city_name": "KOTA PEMATANG SIANTAR",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1274",
+    "city_name": "KOTA TEBING TINGGI",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1275",
+    "city_name": "KOTA MEDAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1276",
+    "city_name": "KOTA BINJAI",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1277",
+    "city_name": "KOTA PADANGSIDIMPUAN",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "12",
+    "province_name": "SUMATERA UTARA",
+    "city_id": "1278",
+    "city_name": "KOTA GUNUNGSITOLI",
+    "GDP": 89.3,
+    "inflation": 2.9,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1301",
+    "city_name": "KABUPATEN KEPULAUAN MENTAWAI",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1302",
+    "city_name": "KABUPATEN PESISIR SELATAN",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1303",
+    "city_name": "KABUPATEN SOLOK",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1304",
+    "city_name": "KABUPATEN SIJUNJUNG",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1305",
+    "city_name": "KABUPATEN TANAH DATAR",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1306",
+    "city_name": "KABUPATEN PADANG PARIAMAN",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1307",
+    "city_name": "KABUPATEN AGAM",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1308",
+    "city_name": "KABUPATEN LIMA PULUH KOTA",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1309",
+    "city_name": "KABUPATEN PASAMAN",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1310",
+    "city_name": "KABUPATEN SOLOK SELATAN",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1311",
+    "city_name": "KABUPATEN DHARMASRAYA",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1312",
+    "city_name": "KABUPATEN PASAMAN BARAT",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1371",
+    "city_name": "KOTA PADANG",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1372",
+    "city_name": "KOTA SOLOK",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1373",
+    "city_name": "KOTA SAWAH LUNTO",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1374",
+    "city_name": "KOTA PADANG PANJANG",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1375",
+    "city_name": "KOTA BUKITTINGGI",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1376",
+    "city_name": "KOTA PAYAKUMBUH",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "13",
+    "province_name": "SUMATERA BARAT",
+    "city_id": "1377",
+    "city_name": "KOTA PARIAMAN",
+    "GDP": 76.0,
+    "inflation": 3.4,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1401",
+    "city_name": "KABUPATEN KUANTAN SINGINGI",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1402",
+    "city_name": "KABUPATEN INDRAGIRI HULU",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1403",
+    "city_name": "KABUPATEN INDRAGIRI HILIR",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1404",
+    "city_name": "KABUPATEN PELALAWAN",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1405",
+    "city_name": "KABUPATEN S I A K",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1406",
+    "city_name": "KABUPATEN KAMPAR",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1407",
+    "city_name": "KABUPATEN ROKAN HULU",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1408",
+    "city_name": "KABUPATEN BENGKALIS",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1409",
+    "city_name": "KABUPATEN ROKAN HILIR",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1410",
+    "city_name": "KABUPATEN KEPULAUAN MERANTI",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1471",
+    "city_name": "KOTA PEKANBARU",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "14",
+    "province_name": "RIAU",
+    "city_id": "1473",
+    "city_name": "KOTA D U M A I",
+    "GDP": 98.7,
+    "inflation": 2.7,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1501",
+    "city_name": "KABUPATEN KERINCI",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1502",
+    "city_name": "KABUPATEN MERANGIN",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1503",
+    "city_name": "KABUPATEN SAROLANGUN",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1504",
+    "city_name": "KABUPATEN BATANG HARI",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1505",
+    "city_name": "KABUPATEN MUARO JAMBI",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1506",
+    "city_name": "KABUPATEN TANJUNG JABUNG TIMUR",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1507",
+    "city_name": "KABUPATEN TANJUNG JABUNG BARAT",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1508",
+    "city_name": "KABUPATEN TEBO",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1509",
+    "city_name": "KABUPATEN BUNGO",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1571",
+    "city_name": "KOTA JAMBI",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  },
+  {
+    "province_id": "15",
+    "province_name": "JAMBI",
+    "city_id": "1572",
+    "city_name": "KOTA SUNGAI PENUH",
+    "GDP": 120.4,
+    "inflation": 3.2,
+    "exchange_rate": 15200
+  }
+]
