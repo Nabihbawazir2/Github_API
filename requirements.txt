@@ -1,0 +1,77 @@
+# Web Scraping and API Requirements for Indonesian Data Collection
+# ================================================================
+
+# Core HTTP and Web Scraping Libraries
+requests>=2.31.0              # HTTP library for API calls and web requests
+beautifulsoup4>=4.12.0        # HTML parsing library for web scraping
+lxml>=4.9.0                   # XML/HTML parser (faster than default)
+html5lib>=1.1                 # Pure-python HTML parser
+
+# Data Processing and Analysis
+pandas>=2.0.0                 # Data manipulation and analysis
+numpy>=1.24.0                 # Numerical computing support
+
+# Data Storage and Export
+openpyxl>=3.1.0              # Excel file support for pandas
+xlsxwriter>=3.1.0            # Excel writing with formatting
+# sqlite3                      # Built-in SQLite support (included in Python)
+
+# Data Visualization
+matplotlib>=3.7.0            # Basic plotting library
+seaborn>=0.12.0              # Statistical data visualization
+
+# Web Automation (for advanced scraping)
+selenium>=4.15.0             # Web browser automation
+webdriver-manager>=4.0.0     # Automatic webdriver management
+
+# Async and Performance
+aiohttp>=3.8.0               # Async HTTP client/server
+asyncio                      # Built-in async support (included in Python)
+
+# Text Processing
+nltk>=3.8.0                  # Natural language processing (for bonus tasks)
+textblob>=0.17.0            # Simple text processing
+
+# Scheduling and Automation
+schedule>=1.2.0              # Job scheduling
+APScheduler>=3.10.0          # Advanced Python scheduler
+
+# Development and Testing
+pytest>=7.4.0               # Testing framework
+pytest-cov>=4.1.0           # Coverage testing
+black>=23.0.0                # Code formatter
+flake8>=6.0.0                # Code linting
+
+# Utility Libraries
+python-dotenv>=1.0.0         # Environment variable management
+tqdm>=4.66.0                 # Progress bars
+colorama>=0.4.6              # Colored terminal output
+rich>=13.0.0                 # Rich text and beautiful formatting
+
+# Date and Time
+python-dateutil>=2.8.0       # Date parsing utilities
+
+# JSON and Configuration
+jsonschema>=4.19.0           # JSON schema validation
+pyyaml>=6.0.0                # YAML file support
+
+# Logging and Monitoring
+loguru>=0.7.0                # Advanced logging
+
+# Indonesian-specific utilities
+Babel>=2.12.0                # Internationalization utilities
+langdetect>=1.0.9            # Language detection
+
+# Optional: Machine Learning (for advanced analysis)
+scikit-learn>=1.3.0          # Machine learning library (optional)
+
+# Optional: Database connectivity
+sqlalchemy>=2.0.0            # SQL toolkit (optional)
+pymongo>=4.5.0               # MongoDB driver (optional)
+
+# Optional: Image processing (for scraping images)
+Pillow>=10.0.0               # Image processing library (optional)
+
+# Development dependencies (optional)
+jupyter>=1.0.0               # Jupyter notebook support
+ipython>=8.15.0              # Enhanced Python shell 

@@ -1,0 +1,22 @@
+[
+  {
+    "city": "Jakarta",
+    "population": 10560000,
+    "province": "Dki Jakarta"
+  },
+  {
+    "city": "Surabaya",
+    "population": 2874000,
+    "province": "Jawa Timur"
+  },
+  {
+    "city": "Bandung",
+    "population": 2452943,
+    "province": "Jawa Barat"
+  },
+  {
+    "city": "Medan",
+    "population": 2210624,
+    "province": "Sumatera Utara"
+  }
+]

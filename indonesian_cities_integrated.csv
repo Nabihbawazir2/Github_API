@@ -1,0 +1,4 @@
+city,temperature,humidity,population,area_km2,population_density,comfort_index,gdp_per_capita,unemployment_rate,tourist_attractions,hotels,economic_score
+Jakarta,28,75,10560000,664,15903.614457831325,26.0,15000,5.2,25,450,72.0
+Surabaya,30,70,2874000,350,8211.42857142857,27.5,12000,4.8,18,280,62.4
+Bandung,24,80,2453000,167,14688.622754491018,24.5,10000,6.1,30,320,39.0

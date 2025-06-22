@@ -1,0 +1,185 @@
+{
+  "weather": {
+    "city": "Jakarta",
+    "temperature": 28.5,
+    "humidity": 75,
+    "description": "Partly Cloudy",
+    "wind_speed": 12.5,
+    "timestamp": "2025-06-21 12:34:24"
+  },
+  "news": [
+    {
+      "title": "Indonesian Economy Grows 5.2% in Q3 2024",
+      "category": "Economy",
+      "timestamp": "2024-01-15 10:30:00",
+      "source": "Kompas"
+    },
+    {
+      "title": "IKN Nusantara Project Enters Infrastructure Development Phase",
+      "category": "Politics",
+      "timestamp": "2024-01-15 09:15:00",
+      "source": "Detik"
+    },
+    {
+      "title": "Indonesian Startup Raises $50 Million Series A Funding",
+      "category": "Technology",
+      "timestamp": "2024-01-15 08:45:00",
+      "source": "Tempo"
+    },
+    {
+      "title": "Indonesian National Team Advances to Asian Cup Semifinals",
+      "category": "Sports",
+      "timestamp": "2024-01-14 22:30:00",
+      "source": "Tribun"
+    },
+    {
+      "title": "Rice Prices Stable in Jakarta Traditional Markets",
+      "category": "Economy",
+      "timestamp": "2024-01-14 16:20:00",
+      "source": "CNN Indonesia"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "BBCA",
+      "name": "Bank Central Asia",
+      "price": 8500,
+      "change": "+2.5%"
+    },
+    {
+      "symbol": "BBRI",
+      "name": "Bank Rakyat Indonesia",
+      "price": 4200,
+      "change": "+1.8%"
+    },
+    {
+      "symbol": "BMRI",
+      "name": "Bank Mandiri",
+      "price": 5800,
+      "change": "-0.5%"
+    },
+    {
+      "symbol": "TLKM",
+      "name": "Telkom Indonesia",
+      "price": 3150,
+      "change": "+3.2%"
+    },
+    {
+      "symbol": "ASII",
+      "name": "Astra International",
+      "price": 6200,
+      "change": "+1.1%"
+    },
+    {
+      "symbol": "UNVR",
+      "name": "Unilever Indonesia",
+      "price": 3800,
+      "change": "-1.2%"
+    },
+    {
+      "symbol": "ICBP",
+      "name": "Indofood CBP",
+      "price": 9500,
+      "change": "+0.8%"
+    },
+    {
+      "symbol": "GGRM",
+      "name": "Gudang Garam",
+      "price": 25000,
+      "change": "+2.1%"
+    }
+  ],
+  "products": [
+    {
+      "name": "Smartphone Samsung Galaxy A54 5G",
+      "price": 5999000,
+      "rating": 4.5,
+      "sold": 1250,
+      "category": "Electronics",
+      "seller_location": "Jakarta"
+    },
+    {
+      "name": "Nike Air Max 270 Shoes",
+      "price": 1899000,
+      "rating": 4.7,
+      "sold": 890,
+      "category": "Fashion",
+      "seller_location": "Bandung"
+    },
+    {
+      "name": "ASUS VivoBook 14 Laptop",
+      "price": 7500000,
+      "rating": 4.3,
+      "sold": 456,
+      "category": "Computer",
+      "seller_location": "Surabaya"
+    },
+    {
+      "name": "Eiger 1989 Backpack",
+      "price": 350000,
+      "rating": 4.6,
+      "sold": 2100,
+      "category": "Fashion",
+      "seller_location": "Yogyakarta"
+    },
+    {
+      "name": "Aceh Gayo Arabica Coffee",
+      "price": 85000,
+      "rating": 4.8,
+      "sold": 3400,
+      "category": "Food",
+      "seller_location": "Aceh"
+    }
+  ],
+  "government": {
+    "population_by_province": [
+      {
+        "province": "West Java",
+        "population": 48037000,
+        "area_km2": 35378
+      },
+      {
+        "province": "East Java",
+        "population": 39293000,
+        "area_km2": 47800
+      },
+      {
+        "province": "Central Java",
+        "population": 34257000,
+        "area_km2": 32801
+      },
+      {
+        "province": "North Sumatra",
+        "population": 14799000,
+        "area_km2": 72981
+      },
+      {
+        "province": "DKI Jakarta",
+        "population": 10562000,
+        "area_km2": 664
+      }
+    ],
+    "gdp_by_sector": [
+      {
+        "sector": "Manufacturing Industry",
+        "contribution_percent": 19.7
+      },
+      {
+        "sector": "Trade",
+        "contribution_percent": 13.2
+      },
+      {
+        "sector": "Agriculture",
+        "contribution_percent": 12.9
+      },
+      {
+        "sector": "Construction",
+        "contribution_percent": 10.9
+      },
+      {
+        "sector": "Mining",
+        "contribution_percent": 8.4
+      }
+    ]
+  }
+}
