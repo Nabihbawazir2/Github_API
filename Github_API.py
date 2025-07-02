@@ -59,3 +59,4 @@ if __name__ == "__main__":
 
     df = analyzer.analyze_repositories()
     print(df.sort_values(by='stars', ascending=False))
+    df.to_csv("github_repo.csv")
